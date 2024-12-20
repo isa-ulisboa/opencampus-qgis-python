@@ -1,12 +1,11 @@
 # qgis-python
 
-[QGIS with Python: Open Campus course at ISA/ULisboa](https://www.isa-opencampus.pt/qgis-com-python)
+[QGIS with Python 3rd Edition (2023): Open Campus course at ISA/ULisboa](https://www.isa-opencampus.pt/qgis-com-python)
 
 Instructor: Manuel Campagnolo
 
-Start: Monday November 13, 6pm, online (follow zoom link). 10 sessions Mondays and Wednesdays 6-8pm until December 13.
+Start: Monday November 13, 2023, 6pm, online (follow zoom link). 10 sessions Mondays and Wednesdays 6-8pm until December 13.
 
-Main links:
 * [Zoom link](https://videoconf-colibri.zoom.us/j/98394607195)
 * [Fenix: class recordings and evaluation](https://fenix.isa.ulisboa.pt/courses/qwp-846413499991001)
 * [Shared folder: data for exercises](https://ulisboa-my.sharepoint.com/:f:/g/personal/mlc_office365_ulisboa_pt/ElM7jQ_b__lEkznQ6mVRuhsBESim1iSIdK0v_7kXgvHw6A?e=UFWqMh)
