@@ -4,7 +4,7 @@
 
 Instructor: Manuel Campagnolo
 
-Start: Wednesday, April 23, 2025, 6pm, online (follow zoom link). 10 sessions Mondays and Wednesdays 6-8pm until May 26, 2025.
+Start: Wednesday, April 23, 2025, 6pm, online. In total, 10 sessions Mondays and Wednesdays 6-8pm until May 26, 2025.
 
 Main links:
 * [Zoom link](https://videoconf-colibri.zoom.us/j/98394607195)
@@ -24,7 +24,7 @@ Main links:
 ## Main resources for the course 
 
 * [Overview of topics and exercises](overview_pyqgis_geopandas_rasterio_2025.pdf)
-* Course tutorial and a reference guide: [PyQGIS Developer Cookbook](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html) or [pdf version](https://docs.qgis.org/testing/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf)
+* [PyQGIS Developer Cookbook](https://docs.qgis.org/3.34/en/docs/pyqgis_developer_cookbook/index.html) 
 
 ## QGIS instalation:
 <details markdown="block">
@@ -48,13 +48,7 @@ Below are included step-by-step instruction for installing QGIS through OSGeo4W 
     - `C:\OSGeo4W\OSGeo4W.bat` - This opens the OSGeo4W shell that can be used for executing python scripts from the command line.
     - `C:\OSGeo4W\bin\qgis-ltr-bin.exe` - This is the main QGIS executable that you need to run for starting QGIS 3.
     - Obs: we will execute scripts directly in QGIS, so the OSGeo4W shell (windows key+ OSGeo4W shell) will only be needed to install Python packages (see below).
-2. To run the Python interpreter from the OSGeo4W shell one should execute `python-qgis-ltr` (you can exit with `quit()`).
-  - [Installing pip](https://pip.pypa.io/en/stable/installation/): most likely not necessary since it should be included in the above installation
-  - Installing a Python package that is not included in OSGeo4W: for example, install package `sklearn` (package for Data Science not included in OSGeo4W): 
-    - 1st: open OSGeo4W shell (`window key` + `osgeo4w shell`);  
-    - 2nd: execute `python -m pip install --user sklearn` in the OSGeo4W shell; 
-    - 3rd: in the python console of QGIS do `import sklearn` to verify that it is loaded correctly (i.e. there is no error message)
-    - Exercise: install package haversine (distances over the sphere).
+2. Installing a Python package that is not available in `C:\OSGeo4W\apps\Python3xx\Lib\site-packages`: execute `C:\OSGeo4W\bin\osgeo4w-setup.exe`; select *advanced mode*; follow menus; use search box to select package (say, `sklearn`) and chose *install*. The OSGeo4W setup can also be used to update or delete packages. 
 
 </details>
 
