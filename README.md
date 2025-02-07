@@ -23,7 +23,7 @@ Main links:
 
 ## Main resources for the course 
 
-* [Overview of topics and exercises](overview_pyqgis_geopandas_rasterio.pdf)
+* [Overview of topics and exercises](overview_pyqgis_geopandas_rasterio_2025.pdf)
 * Course tutorial and a reference guide: [PyQGIS Developer Cookbook](https://docs.qgis.org/3.28/en/docs/pyqgis_developer_cookbook/index.html) or [pdf version](https://docs.qgis.org/testing/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf)
 
 ## QGIS instalation:
@@ -158,7 +158,7 @@ Each topic (or task) *Txx* listed below corresponds to a folder that can be down
 </details>
 
 
-## Scripts
+## Short useful blocks of PyQGIS code
 
 <details markdown="block">
   <summary>Simple code to load vector (e.g. shapefile) and raster (e.g. geotiff) files as layers and export vector and raster layers as files </summary>
