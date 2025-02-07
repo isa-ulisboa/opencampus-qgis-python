@@ -9,7 +9,7 @@ Start: Wednesday, April 23, 2025, 6pm, online. In total, 10 sessions Mondays and
 Main links:
 * [Zoom link](https://videoconf-colibri.zoom.us/j/98394607195)
 * [Fenix: class recordings and evaluation](https://fenix.isa.ulisboa.pt/courses/qwp-846413499991001)
-* [Shared folder: data for exercises](https://ulisboa-my.sharepoint.com/:f:/g/personal/mlc_office365_ulisboa_pt/ElM7jQ_b__lEkznQ6mVRuhsBESim1iSIdK0v_7kXgvHw6A?e=UFWqMh)
+* [Shared folder: data for exercises](https://ulisboa-my.sharepoint.com/:f:/g/personal/mlc_office365_ulisboa_pt/ElM7jQ_b__lEkznQ6mVRuhsBESim1iSIdK0v_7kXgvHw6A?e=APF3FE)
 * [GitHub site, with access to python scripts and searchable](https://github.com/isa-ulisboa/qgis-python)
 * [Youtube channel](https://www.youtube.com/@qgisiwthpython)
   
