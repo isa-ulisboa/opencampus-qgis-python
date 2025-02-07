@@ -4,7 +4,7 @@
 
 Instructor: Manuel Campagnolo
 
-Start: Wednesday, April 23 2025, 6pm, online (follow zoom link). 10 sessions Mondays and Wednesdays 6-8pm until May 26, 2025.
+Start: Wednesday, April 23, 2025, 6pm, online (follow zoom link). 10 sessions Mondays and Wednesdays 6-8pm until May 26, 2025.
 
 Main links:
 * [Zoom link](https://videoconf-colibri.zoom.us/j/98394607195)
