@@ -1,6 +1,6 @@
 # qgis-python
 
-[QGIS with Python: Open Campus course at ISA/ULisboa](https://www.isa-opencampus.pt/qgis-com-python)
+[QGIS with Python: Open Campus course at ISA/ULisboa](https://www.isa-opencampus.pt/qgis-com-python), 4th Edition
 
 Instructor: Manuel Campagnolo
 
