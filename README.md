@@ -9,7 +9,7 @@ Start: Wednesday, April 23, 2025, 6pm, online. In total, 10 sessions Mondays and
 ## Main resources for the course 
 * [Zoom link](https://videoconf-colibri.zoom.us/j/98394607195)
 * [Fenix: class recordings and evaluation](https://fenix.isa.ulisboa.pt/courses/qwp-846413499991001)
-* [Shared folder: data for exercises](https://ulisboa-my.sharepoint.com/:f:/r/personal/mlc_office365_ulisboa_pt/Documents/Documents/Aulas-Cursos/cursos_curta_duracao/qgis_com_python_2023/shared_folder?csf=1&web=1&e=1TeeOe)
+* [Shared folder: data for exercises](https://ulisboa-my.sharepoint.com/:f:/g/personal/mlc_office365_ulisboa_pt/ElM7jQ_b__lEkznQ6mVRuhsBESim1iSIdK0v_7kXgvHw6A?e=J4uq0R)
 * [GitHub site, with access to python scripts and searchable](https://github.com/isa-ulisboa/qgis-python)
 * [Youtube channel](https://www.youtube.com/@qgisiwthpython)
 * [Overview of topics and exercises](overview_pyqgis_geopandas_rasterio_2025.pdf)
