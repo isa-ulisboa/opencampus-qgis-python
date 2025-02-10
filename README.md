@@ -13,14 +13,6 @@ Main links:
 * [GitHub site, with access to python scripts and searchable](https://github.com/isa-ulisboa/qgis-python)
 * [Youtube channel](https://www.youtube.com/@qgisiwthpython)
   
-## Contents
-
-* [Main resources](#main-resources-for-the-course)
-* [QGIS installation](#qgis-instalation)
-* [Sessions](#sessions)
-* [Scripts: functions and examples](#scripts)
-* [Other useful links](#some-useful-links)
-
 ## Main resources for the course 
 
 * [Overview of topics and exercises](overview_pyqgis_geopandas_rasterio_2025.pdf)
