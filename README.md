@@ -43,7 +43,7 @@ Below are included step-by-step instruction for installing QGIS through OSGeo4W 
 
 ## Sessions
 
-Each topic (or task) *Txx* listed below corresponds to a folder that can be downloaded from this [Shared folder](https://ulisboa-my.sharepoint.com/:f:/g/personal/mlc_office365_ulisboa_pt/ElM7jQ_b__lEkznQ6mVRuhsBESim1iSIdK0v_7kXgvHw6A?e=UFWqMh). 
+Each task *Txx* listed below corresponds only needs a folder with data and scripts that can be downloaded from this [Shared folder](https://ulisboa-my.sharepoint.com/:f:/g/personal/mlc_office365_ulisboa_pt/ElM7jQ_b__lEkznQ6mVRuhsBESim1iSIdK0v_7kXgvHw6A?e=UFWqMh). 
 
 <details markdown="block">
 
